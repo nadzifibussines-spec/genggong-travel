@@ -9,8 +9,7 @@ export default function TentangKamiPage() {
   return (
     <>
       <Hero
-        title="Tentang Kami"
-        subtitle="PT. Genggong Travel"
+        
       />
 
       <section className="container mx-auto py-20 px-6">

@@ -6,8 +6,7 @@ export default function UmrahPage() {
   return (
     <>
       <Hero
-        title="Program Umrah"
-        subtitle="Pilihan paket umrah terbaik dengan fasilitas nyaman dan bimbingan berpengalaman."
+        
       />
 
       <section className="container mx-auto px-6 py-20">

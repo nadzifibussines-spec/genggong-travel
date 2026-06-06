@@ -6,8 +6,7 @@ export default function KontakPage() {
   return (
     <>
       <Hero
-        title="Kontak Kami"
-        subtitle="Silakan hubungi kami untuk konsultasi Umrah & Haji"
+
       />
 
       <section className="container mx-auto px-6 py-20 grid md:grid-cols-2 gap-10">

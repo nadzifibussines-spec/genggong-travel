@@ -6,8 +6,7 @@ export default function HajiPage() {
   return (
     <>
       <Hero
-        title="Haji"
-        subtitle="Program Haji Plus resmi dengan fasilitas terbaik dan bimbingan berpengalaman."
+        
       />
 
       <section className="container mx-auto px-6 py-20">
